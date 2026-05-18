@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "description": "Server restart scheduled at 15:00 UTC. Please wait."
+  "maintenance": true,
+  "description": "Server will be turned soon"
 }
